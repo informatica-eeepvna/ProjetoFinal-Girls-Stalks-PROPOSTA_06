@@ -63,7 +63,7 @@ Criar um website atraente e funcional que represente a identidade do "Girls Talk
 
 ## Links
 - [Website em funcionamento](https://astrocode0.github.io/Podcast-GirlsTalk/blog/index.html)
-- [Identidade Visual Completa no Google Drive]([https://drive.google.com/drive/folders/{ID}](https://drive.google.com/drive/folders/1_7Tdck1iXhwePgOYzdCFuQ77pZkB7Cun))
+- [Identidade Visual Completa no Google Drive](https://drive.google.com/drive/folders/1_7Tdck1iXhwePgOYzdCFuQ77pZkB7Cun)
 
 ## Conclusão
 O desenvolvimento do website para o podcast "Girls Talks" é uma oportunidade emocionante para criar uma plataforma online que ofereça conteúdo relevante e inspirador, promovendo diversidade, inclusão e empoderamento das mulheres. Com uma abordagem integrada das tecnologias mencionadas, o site fortalecerá a comunidade de ouvintes e celebrará a força e a individualidade das mulheres.
